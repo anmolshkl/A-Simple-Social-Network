@@ -1,0 +1,23 @@
+html,body {
+    margin: 0px;
+    padding: 0px;
+    background: url("../images/shattered.png") repeat;
+}
+
+.header {
+    background: url("../images/purpattern.png");
+    height: 100px;
+    text-align: center;
+    padding: 10px;
+}
+.container {
+    margin-top: 70px;
+}
+.rbody {
+    background: url("../images/pat2.jpg") repeat;
+}
+.btn{
+    position: relative;
+    left: 27%;
+    width: 46%;
+}

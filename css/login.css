@@ -1,0 +1,36 @@
+body {
+    background: url("../images/purpattern.png") repeat;
+}
+
+.company {
+    color: #F8F8F8;
+}
+
+.login {
+    padding: 80px;
+}
+
+.logo {
+    width: 50%;
+    height: 50%;
+    margin: 5px auto;
+    background-color: transparent;        
+}
+
+.form-group {
+    position: relative;
+    left: 7%;;
+    padding: 15px;
+}
+.popover {
+    width: 250px;
+}
+.remember {
+    color: black;
+}
+.btn {
+    position: relative;
+    margin: 10px;
+    width: 40%;
+    left: -20%;
+}
